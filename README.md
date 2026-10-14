@@ -1,6 +1,6 @@
 ---
 
-## 🎮 3. Heroic Games Launcher: NVIDIA-Optimierungen
+## Heroic Games Launcher: NVIDIA-Optimierungen
 
 Diese Umgebungsvariablen (Environment Variables) optimieren die Performance und Features beim Spielen über den Heroic Games Launcher auf Systemen mit NVIDIA-Grafikkarten.
 
